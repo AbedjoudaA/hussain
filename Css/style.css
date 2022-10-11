@@ -1,0 +1,31 @@
+section .div1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+section .div1 div{
+    width: 20%;
+    background-color: rgba(245, 222, 179, 0.384);
+    border-radius: 20px;
+}
+section .div1 img{
+    width: 100%;
+    height: 350px;
+    border-radius: 20px;
+
+}
+
+
+section h2{
+    text-align: center;
+}
+section hr{
+    width: 5%;
+    background-color: blueviolet;
+    padding: 2px;
+}
+section span{
+    color: blueviolet;
+    margin-left: 80px;
+    font-weight: 700;
+}
